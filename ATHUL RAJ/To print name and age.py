@@ -1,3 +1,4 @@
+#day1.2
 #created by athul raj
 #date: 11-11-2024
 # to print name and age
