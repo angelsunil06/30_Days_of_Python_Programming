@@ -1,4 +1,4 @@
-#day1.1
+#day 1.1
 #created by athul raj
 #date:11-11-2024
 # to print string "welcome to programming with python"
