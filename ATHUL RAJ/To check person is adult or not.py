@@ -1,3 +1,4 @@
+#day 2.1
 #created by athul raj
 #date: 11-11-2024
 # to check person is adult or minor
