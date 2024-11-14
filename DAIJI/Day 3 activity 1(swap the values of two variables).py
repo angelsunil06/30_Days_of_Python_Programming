@@ -9,5 +9,8 @@ print("Values before swapping")
 print(f"Number1={number_1}")
 print(f"Number2={number_2}")
 print("Values after swapping")
-print(f"number1={number_2}")
-print(f"number2={number_1}")
+new=number_1
+number_1=number_2
+number_2=new
+print(f"number1={number_1}")
+print(f"number2={number_2}")
