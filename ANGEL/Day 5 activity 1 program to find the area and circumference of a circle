@@ -1,7 +1,7 @@
 '''
 author:angel
 date:15-11-24
-program to find the area of the circle
+program to find the area and circumference of a circle
 
 '''
 radius=float(input('enter radius of the circle:'))
