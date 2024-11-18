@@ -1,0 +1,11 @@
+#created by athul raj
+#date:17-11-2024
+#To calculate simple interest
+amount=int(input("Enter the amount:"))
+years=float(input("Enter the number of years:"))
+rate=float(input("Enter the interest rate:"))
+si=(amount*years*rate)/100
+print("simple interest=",si)
+
+
+    
